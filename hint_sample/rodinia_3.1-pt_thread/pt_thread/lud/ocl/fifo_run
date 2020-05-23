@@ -1,0 +1,2 @@
+# ./lud -i ../../../data/lud/256.dat 
+chrt -v -f $1 ./lud -s 1024 -v

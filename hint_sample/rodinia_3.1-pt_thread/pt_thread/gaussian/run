@@ -1,0 +1,8 @@
+#./gaussian -f ../../data/gaussian/matrix4.txt
+#
+for ((i=0;i<1;i++))
+do
+#./gaussian -s 256 > /dev/null
+    make clean && make
+    ./gaussian -s 256
+done

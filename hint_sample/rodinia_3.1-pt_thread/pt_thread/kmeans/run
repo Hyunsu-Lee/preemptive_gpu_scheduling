@@ -1,0 +1,6 @@
+for ((i=0;i<20;i++))
+do
+#./kmeans -o -i ../../data/kmeans/kdd_cup 
+#make clean && make
+    ./kmeans -o -i ../../data/kmeans/kdd_cup
+done

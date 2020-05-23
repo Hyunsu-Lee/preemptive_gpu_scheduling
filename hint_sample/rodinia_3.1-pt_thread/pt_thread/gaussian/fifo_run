@@ -1,0 +1,2 @@
+#./gaussian -f ../../data/gaussian/matrix4.txt
+chrt -v -f $1 ./gaussian -s 256

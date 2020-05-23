@@ -1,0 +1,6 @@
+for ((i=0;i<1;i++))
+do
+#./bfs ../../data/bfs/graph1MW_6.txt
+    make clean && make
+    ./bfs ../../data/bfs/graph1MW_6.txt
+done

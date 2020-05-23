@@ -1,0 +1,6 @@
+for ((i=0;i<20;i++))
+do
+#./pathfinder 100000 100 20 > result.txt
+#make clean && make
+    ./pathfinder 100000 100 20
+done

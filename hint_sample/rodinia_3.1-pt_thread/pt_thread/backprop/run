@@ -1,0 +1,7 @@
+for ((i=0;i<1;i++))
+do
+#./backprop 65536
+#make clean && make
+    ./backprop 65536
+#./backprop 131072
+done

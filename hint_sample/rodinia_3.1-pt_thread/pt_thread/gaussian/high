@@ -1,0 +1,2 @@
+#./gaussian -f ../../data/gaussian/matrix4.txt
+nice -n -19 ./gaussian -s 256

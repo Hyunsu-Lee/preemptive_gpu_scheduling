@@ -1,0 +1,7 @@
+for ((i=0;i<20;i++))
+do
+#./nn list5120k_512.txt -r 5 -lat 30 -lng 90 > /dev/null
+    make clean && make
+    ./nn filelist.txt -r 5 -lat 30 -lng 90
+
+done

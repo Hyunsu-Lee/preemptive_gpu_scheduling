@@ -1,0 +1,2 @@
+# ./lud -i ../../../data/lud/256.dat 
+nice -n 20 ./lud -s 1024 -v

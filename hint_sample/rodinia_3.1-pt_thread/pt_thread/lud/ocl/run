@@ -1,0 +1,7 @@
+# ./lud -i ../../../data/lud/256.dat 
+
+for ((i=0;i<20;i++))
+do
+#make clean && make
+    ./lud -s 1024 -v
+done
