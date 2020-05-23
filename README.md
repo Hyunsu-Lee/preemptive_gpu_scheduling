@@ -11,7 +11,7 @@ Our preemptive GPU scheduling concept is implemented in the device driver of a M
 ## How to apply kernel to your machine
 We developed the preemptive GPU scheduler based on 3.10.y version kernel source branch for odroid XU3 in Hardkernel Github repository(version hash-86b2fd0e12b). you can easily build and install our linux kernel source on a machine through an install.sh script.
 
-        $ git clone https://github.com/Hyunsu-Lee/preemptive_gpu_scheduling.git
+        $ git clone https://github.com/Hyunsu-Lee/preemptive_gpu_scheduling.git (or -b transcl)
         $ ./install.sh
  
 ## How to use our preemptive GPU scheduler
@@ -22,3 +22,6 @@ To use our preemptive GPU scheduler, you only designate priority(NICE value) of 
 ## Note that
 Our preemptive GPU scheduler map the GPU memory region and snapshot memory to kernel virtual memory space through vamp function. This is a fast way to quickly map physical memory page to contiguous virtual memory, but, kernel virtual memory space can be insufficient in 32-bit architecture. This problem can be mitigated by increasing kernel virtual memory space size. Sure, this spatial problem will not occur in 64-bit architecture with very large virtual memory space.
 
+## The publication of the ikernel and the Transcl project
+	1. Lee, Hyeonsu, Jaehun Roh, and Euiseong Seo. "A GPU Kernel Transactionization Scheme for Preemptive Priority Scheduling." 2018 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). IEEE, 2018.
+	2. Lee, Hyeonsu, et al. "Idempotence-Based Preemptive GPU Kernel Scheduling for Embedded Systems." IEEE Transactions on Computers (2020).
