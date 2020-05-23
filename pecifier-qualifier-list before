@@ -1,0 +1,119 @@
+[33mcommit c8cb44067195b2a5659b581ede5459846149e531[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Thu Jul 30 22:19:46 2015 +0930
+
+    20150730
+
+[33mcommit 7a71fb667e8482ecc689cdac12df19c60fbdfc2a[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Fri Jul 17 20:52:18 2015 +0930
+
+    150717-1
+
+[33mcommit 9e9f2c5621fe39b807e4636fd49473227c30097d[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Fri Jul 17 15:12:47 2015 +0930
+
+    150717
+
+[33mcommit 20d6424fcf4583b935bd04ca709c9b268fe15882[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Fri Jul 17 01:49:02 2015 +0930
+
+    150716
+
+[33mcommit 035613d6634be5fc6d72d4de4eb91bd33d98e21b[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Thu Jul 16 16:43:07 2015 +0930
+
+    150716
+
+[33mcommit ef0c414bcf82f5e93c3c86d69729ebd6ffad3d05[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Thu Jul 16 16:36:40 2015 +0930
+
+    150716
+
+[33mcommit da4b6b2303b9ad323549cc878ec71d83d86ccc9a[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Wed Jul 8 02:21:21 2015 +0900
+
+    150708
+
+[33mcommit 0120dc1fe33d05e5f0cf04232d98ca6a26aca059[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Fri Jul 3 02:40:28 2015 +0930
+
+    150703
+
+[33mcommit 0fb0e99a5a175c5ac8dc80a621cbb65125ab1ddd[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Sun Jun 14 16:25:07 2015 +0930
+
+    150514
+
+[33mcommit 4f5a35761f299ccdc9c3db9c8fc9b2be38feb85e[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Sat Jun 6 16:34:59 2015 +0930
+
+    hex_set
+
+[33mcommit 41d1ba31dabbbfb6231f9737f4bdd69bf37d26d6[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Sat Jun 6 16:22:39 2015 +0930
+
+    hex
+
+[33mcommit 70c1a16b6e85efdd55007f50c4c227a9303bd765[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Sat May 30 20:24:41 2015 +0930
+
+    tmp
+
+[33mcommit f5f1a6c02c0d8b16dc9228433190e1d9575a75bc[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Sat May 30 06:43:21 2015 +0930
+
+    split cl gl
+
+[33mcommit c6e023a8f1eaae8e04a7d0de17d9d375d56140ef[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Sat May 30 02:31:53 2015 +0930
+
+    modify ioctl
+
+[33mcommit 129ccf7f3edc565049ec70091e2e3d0efd1247b9[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Thu May 28 02:46:59 2015 +0900
+
+    mali_kbase_test
+
+[33mcommit 1dd368250d800034096e153b2e239cc6fa5f2cf6[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Wed May 27 21:25:55 2015 +0930
+
+    pm test
+
+[33mcommit 9077d89de4963a58e5f2d799d7f233cc41ebab04[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Wed May 27 18:42:29 2015 +0930
+
+    0527
+
+[33mcommit b12e3730f828e0b94e5dd0acf788550bb679b823[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Sun May 24 18:22:42 2015 +0930
+
+    modify debug.c
+
+[33mcommit 3a342975af3c57632eb79b66d751ef78a2f521be[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Fri May 22 16:37:51 2015 +0930
+
+    binary func update
+
+[33mcommit 4c952e9db19ed7fb33e92fd23df4895861bd90d0[m
+Author: Hyunsu-Lee <erielsy@gmail.com>
+Date:   Wed May 13 09:17:02 2015 +0930
+
+    init
